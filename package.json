@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-secure-storage-fork",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Secure storage plugin for iOS & Android",
   "author": "Yiorgis Gozadinos <ggozad@crypho.com>",
   "contributors": [
